@@ -1,0 +1,4 @@
+*.log
+osama.txt
+!osama.log
+node_packs/
